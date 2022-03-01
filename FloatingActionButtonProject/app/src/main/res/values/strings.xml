@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Floating Action Button Project</string>
+    <string name="action_settings">Reveal Activity</string>
+    <string name="title_activity_reveal">RevealActivity</string>
+</resources>
